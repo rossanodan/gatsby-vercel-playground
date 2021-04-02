@@ -11,6 +11,7 @@ const SecondPage = () => (
     <p>Welcome to page 2</p>
     <p>This page is awesome!</p>
     <p>Let's change this page</p>
+    <p>n-th line here</p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
